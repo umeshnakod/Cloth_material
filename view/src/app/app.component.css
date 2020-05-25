@@ -1,0 +1,46 @@
+
+  .toolbar {
+    height: 60px;
+    /* margin: -8px; */
+    display: -webkit-box;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    background-color: grey;
+    color: white;
+    font-weight: 600;
+    padding: 35px;
+    background: wheat;
+  }
+
+  .nav__bar__main {
+    text-align: center;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+  }
+
+  .nav-bar-title {
+    color: black;
+    /* padding: 20px 20px 20px 20px; */
+    /* width: 15%; */
+    cursor: pointer;
+    padding: 10px 0;
+    
+  }
+
+
+  .nav-bar-title:hover,
+  .nav-bar-title:active {
+    border-bottom: 2px solid gray;
+    /* transition: 1s ease; */
+  }
+
+body{
+  font-size: 14px;
+  margin: 0;
+}
+
+*{
+  box-sizing: border-box;
+}

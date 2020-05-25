@@ -1,0 +1,54 @@
+.content-custom-padding{
+    padding: 3.4rem;
+}
+
+.page-title{
+    font-size: 22px;
+    text-align:center;
+    line-height: 22px;
+    margin-top: 20px;
+  }
+  .label{
+    line-height: 30px;
+  }
+  
+  .table th{
+    width: 25%;
+  }
+  .table td{
+    width: 25%;
+  } 
+
+ .add__contractor__main {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+  color: inherit;
+  background-color: #eee;
+  margin: 50px;
+  /* height: 400px; */
+  text-align: center;
+ }
+
+ .add__contractor__title{
+    font-weight: bold;
+    padding: 0;
+    margin: 0;
+ }
+
+ .add__contractor__title + hr {
+  border-top: 1px solid #9a3636;
+ }
+
+ .add__contractor__form{
+  height: 100%;
+  padding-bottom: 50px;
+  padding-top: 10px; 
+  margin: auto;
+  width: 70%;
+ }
+
+ .add__contractor__field{
+  width: 100%;
+  display: inline-block;
+ }

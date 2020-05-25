@@ -1,0 +1,32 @@
+.home__main {
+    padding-top: 50px;
+}
+
+.home__main__logo {
+    height: 150px;
+    /* background: black; */
+    padding: 0;
+    width: 90%;
+    /* display: inline-block; */
+    text-align: center;
+    margin: auto;
+    background: #d2a4a4;
+    height: 100%;
+}
+
+/* .home__main__logo > span {
+    background: url('../../assets/logo.png');
+    background-repeat: no-repeat;
+} */
+
+
+.home__main__note {
+    padding: 0;
+    width: 90%;
+    text-align: center;
+    margin: auto;
+    background: cadetblue;
+    height: 100%;
+    /* width: 100%; */
+    margin-top: 60px;
+}

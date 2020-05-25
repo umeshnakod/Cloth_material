@@ -1,0 +1,76 @@
+
+{
+    "vendorName": "Sanjeev Rangrej",
+    "items": [{
+        "itemName": "Chudidar_matching 2",
+        "isMatching": true,
+        "itemList": [{
+            "panna": "44",
+            "size": 12,
+            "plainAverage": 10,
+            "matching": [{
+                "name": "Matching 1",
+                "panna": "56 Panna",
+                "Average": 0.10
+            },
+            {
+                "name": "Matching 2",
+                "panna": "56 Panna",
+                "Average": 0.20
+            }]
+        }, {
+            "panna": "44",
+            "size": 14,
+            "plainAverage": 12,
+            "matching": [{
+                "name": "Matching 1",
+                "panna": "56 Panna",
+                "Average": 0.2
+            },
+            {
+                "name": "Matching 2",
+                "panna": "56 Panna",
+                "Average": 0.30
+            }]
+        }, {
+            "panna": "44",
+            "size": 16,
+            "plainAverage": 13,
+            "matching": [{
+                "name": "Matching 1",
+                "panna": "56 Panna",
+                "Average": 0.3
+            },{
+                "name": "Matching 2",
+                "panna": "56 Panna",
+                "Average": 0.40
+            }]
+        }, {
+            "panna": "44",
+            "size": 18,
+            "plainAverage": 14,
+            "matching": [{
+                "name": "Matching 1",
+                "panna": "56 Panna",
+                "Average": 0.4
+            },{
+                "name": "Matching 2",
+                "panna": "56 Panna",
+                "Average": 0.50
+            }]
+        }, {
+            "panna": "44",
+            "size": 20,
+            "plainAverage": 17,
+            "matching": [{
+                "name": "Matching 1",
+                "panna": "56 Panna",
+                "Average": 0.5
+            },{
+                "name": "Matching 2",
+                "panna": "56 Panna",
+                "Average": 0.60
+            }]
+        }]
+    }]
+}

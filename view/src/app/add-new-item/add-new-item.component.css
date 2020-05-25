@@ -1,0 +1,28 @@
+.add__item__main{
+    /* padding-top: 1px; */
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    color: inherit;
+    background-color: #eee;
+    margin: 50px;
+    /* height: 400px; */
+    text-align: center;
+};
+
+.add__items {
+    display: inline-block;
+
+}
+
+.add__item__name{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+};
+.label-vendor-name {
+    width: 100%;
+};
+
+.add__item__matching{
+    margin: 27px;
+}

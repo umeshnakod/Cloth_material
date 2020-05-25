@@ -1,0 +1,34 @@
+.new__entry__main{
+    padding-top: 1px;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    color: inherit;
+    background-color: #eee;
+    margin: 50px;
+    /* height: 400px; */
+    text-align: center;
+};
+
+.new__entry__title{
+    
+}
+
+.vendor{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+};
+
+.label-vendor-name {
+    width: 20%;
+};
+
+.label-vendor-dropdown {
+    width: 250px;
+};
+
+
+.button-for-new-entry{
+    display: flex;
+    justify-content: center;
+}

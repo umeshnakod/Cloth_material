@@ -1,0 +1,17 @@
+
+
+to run node 
+
+
+ssh -i node.pem ubuntu@ec2-13-232-159-123.ap-south-1.compute.amazonaws.com
+
+
+
+to run mongo
+
+
+ssh -i "mongo.pem" ec2-user@ec2-13-126-178-150.ap-south-1.compute.amazonaws.com
+
+
+
+from download path
